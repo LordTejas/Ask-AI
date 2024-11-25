@@ -24,3 +24,6 @@ build/
 
 # Documentation folder
 /docs/
+
+# Uploaded files
+uploaded_files.json

@@ -1,0 +1,11 @@
+{
+  "name": "ask-ai",
+  "version": "1.0.0",
+  "description": "Ask AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tejas Kanji",
+  "license": "ISC"
+}
